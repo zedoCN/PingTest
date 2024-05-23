@@ -1,0 +1,11 @@
+{
+  "host": [
+    "baidu.com",
+    "bilibili.com",
+    "51vv.com",
+    "douyin.com"
+  ],
+  "length": 220,
+  "timeout": 400,
+  "pingRate": 20.0
+}

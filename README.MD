@@ -2,7 +2,7 @@
 
 此项目是为检测我家网络波动所诞生的。
 
-## 配置说明 (config.json)
+### 配置说明 (config.json)
 
 ```json5
 {
@@ -24,6 +24,11 @@
   "pingRate": 20.0
 }
 ```
+
+### 其他说明
+
+* 遇到异常 NoSuchFileException: .\config.json  
+  PingTest.jar同目录下需要config.json配置文件
 
 ### 软件截图
 

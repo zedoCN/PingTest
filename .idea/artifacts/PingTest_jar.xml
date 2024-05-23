@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PingTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PingTest_jar</output-path>
+    <root id="archive" name="PingTest.jar">
+      <element id="module-output" name="PingTest" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/23-ea+3/javafx-controls-23-ea+3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/23-ea+3/javafx-controls-23-ea+3-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/23-ea+3/javafx-graphics-23-ea+3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/23-ea+3/javafx-graphics-23-ea+3-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/23-ea+3/javafx-base-23-ea+3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/23-ea+3/javafx-base-23-ea+3-win.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
